@@ -10,7 +10,5 @@ Main reason for i am writing this paragraph because i am testing about my coding
 |Category|Doctor|Farmer|YouTuber|
 | --- | --- | --- | --- |
 |Work|Hard work |Hard Work |Hard Work into 100|
- Follow me on Social Media 
-| --- | --- | --- | --- |
-Like [Instagram](www.instagram.com/harshil8718/)[Facebook](https://m.facebook.com/beastharshil/?ref=bookmarks)[Twitter](https://mobile.twitter.com/Sureshb97096173?s=09)
+ Follow me on Social Media | Like [Instagram](https://www.instagram.com/harshil8718/) | [Facebook](https://m.facebook.com/beastharshil/?ref=bookmarks) | [Twitter](https://mobile.twitter.com/Sureshb97096173?s=09) |
 I will meet you in another new and awesome paragraph. 
